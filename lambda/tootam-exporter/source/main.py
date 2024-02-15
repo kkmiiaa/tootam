@@ -1,15 +1,11 @@
 # encoding: utf-8
 
-import bs4
 import json
 import requests
-from lxml import html
     
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 
 from scrape import Target, ScrapeSite, ScrapedItem
