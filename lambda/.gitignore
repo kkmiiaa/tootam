@@ -1,0 +1,8 @@
+**/source/**
+**/**
+**
+
+!**/build.sh
+!**/source.zip
+!**/source/requirements.txt
+!**/source/*.py
