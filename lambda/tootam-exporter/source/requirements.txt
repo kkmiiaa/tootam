@@ -2,3 +2,4 @@ requests
 selenium
 gspread
 google-auth
+webdriver_manager
